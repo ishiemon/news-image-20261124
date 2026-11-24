@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/ishiemon/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261124/ishiemon/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124)
+
 # The World in One Day — Tuesday 24 November 2026
 
 An entry for the make.fun competition `news-image-20261124`
